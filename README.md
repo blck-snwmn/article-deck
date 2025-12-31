@@ -1,5 +1,8 @@
 # Article Deck
 
+> [!WARNING]
+> This repository is archived. Development continues at [chex-garage](https://github.com/blck-snwmn/chex-garage).
+
 A Chrome extension for generating slides from web articles.
 
 ## Features
